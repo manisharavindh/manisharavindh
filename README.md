@@ -33,7 +33,7 @@ Student with a passion for AI/ML, Web, Apps, and Games development. I build clea
 ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white) &nbsp;
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) &nbsp;
 
-## What I'm Learning
+## I’m currently learning
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) &nbsp;
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) &nbsp;
@@ -46,9 +46,14 @@ Student with a passion for AI/ML, Web, Apps, and Games development. I build clea
 <div display="flex">
   <a href="https://www.linkedin.com/in/manish-aravindh-a56154334/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
+  </a>&nbsp;
+  <a href="https://www.reddit.com/user/NoWar3289/">
+    <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit"/>
+  </a>&nbsp;
+  <a href="https://www.instagram.com/nowar3289/">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
+  </a> 
 </div>
-
 
 
 <!--
