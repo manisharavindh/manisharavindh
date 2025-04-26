@@ -41,6 +41,15 @@ Student with a passion for AI/ML, Web, Apps, and Games development. I build clea
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) &nbsp;
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) &nbsp;
 
+## How to reach me:
+
+<div display="flex">
+  <a href="https://www.linkedin.com/in/manish-aravindh-a56154334/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</div>
+
+
 
 <!--
 **ManishEmpire2007/ManishEmpire2007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
