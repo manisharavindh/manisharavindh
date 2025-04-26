@@ -41,7 +41,7 @@ Student with a passion for AI/ML, Web, Apps, and Games development. I build clea
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) &nbsp;
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) &nbsp;
 
-## How to reach me:
+<!--- ## How to reach me:
 
 <div display="flex">
   <a href="https://www.linkedin.com/in/manish-aravindh-a56154334/">
@@ -53,7 +53,7 @@ Student with a passion for AI/ML, Web, Apps, and Games development. I build clea
   <a href="https://www.instagram.com/nowar3289/">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
   </a> 
-</div>
+</div> -->
 
 
 <!--
