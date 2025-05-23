@@ -1,3 +1,5 @@
+![Banner](banner.png)
+
 ## Hello World 👋, I'm Manish Aravindh
 
 I'm a student majoring in AI and Data Science, with a passion for coding that began when I was 12. What started as a childhood curiosity has grown into a career path I'm genuinely excited about. I enjoy building websites, mobile apps, and games - basically anything that brings ideas to life through code.
