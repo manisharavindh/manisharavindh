@@ -1,5 +1,12 @@
 ## Hello World 👋, I'm Manish Aravindh
-Student with a passion for AI/ML, Web, Apps, and Games development. I build clean, user-focused web experiences and love exploring Linux distros and system tinkering. Always learning, always evolving. As a curious and ever-learning individual, I'm always open to discussing these fascinating fields with other developers. Let's connect!
+
+I'm a student majoring in AI and Data Science, with a passion for coding that began when I was 12. What started as a childhood curiosity has grown into a career path I'm genuinely excited about. I enjoy building websites, mobile apps, and games - basically anything that brings ideas to life through code.
+
+After finishing high school, I knew I wanted to stay in the tech world, so I chose AI and Data Science to keep learning and growing. In my free time, you'll find me building fun little projects or exploring different Linux distributions. I'm a bit of a system tinkering enthusiast who loves understanding how things work under the hood.
+
+I'm always eager to connect with fellow developers and tech enthusiasts. Whether you're a friend, colleague, or potential collaborator, I'd love to chat about technology and share ideas. Feel free to reach out!
+
+<!-- Student with a passion for AI/ML, Web, Apps, and Games development. I build clean, user-focused web experiences and love exploring Linux distros and system tinkering. Always learning, always evolving. As a curious and ever-learning individual, I'm always open to discussing these fascinating fields with other developers. Let's connect! -->
 
 <!-- Front End Developer who's also diving into AI/ML. I love creating user-friendly web experiences and constantly improving my skills. Currently exploring the fascinating world of Artificial Intelligence and Machine Learning. As a curious and ever-learning individual, I'm always open to discussing these fascinating fields with other developers. Let's connect! -->
 
