@@ -2,7 +2,7 @@
 
 I'm a student majoring in AI and Data Science, with a passion for coding that began when I was 12. What started as a childhood curiosity has grown into a career path I'm genuinely excited about. I enjoy building websites, mobile apps, and games - basically anything that brings ideas to life through code.
 
-After finishing high school, I knew I wanted to stay in the tech world, so I chose AI and Data Science to keep learning and growing. In my free time, you'll find me building fun little projects or exploring different Linux distributions. I'm a bit of a system tinkering enthusiast who loves understanding how things work under the hood.
+In my free time, you'll find me building fun little projects or exploring different Linux distributions. I'm a bit of a system tinkering enthusiast who loves understanding how things work under the hood.
 
 I'm always eager to connect with fellow developers and tech enthusiasts. Whether you're a friend, colleague, or potential collaborator, I'd love to chat about technology and share ideas. Feel free to reach out!
 
