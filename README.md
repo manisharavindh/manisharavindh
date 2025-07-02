@@ -1,10 +1,12 @@
 ## Hello World 👋, I'm Manish Aravindh
 
-I'm a student majoring in AI and Data Science, with a passion for coding that began when I was 12. What started as a childhood curiosity has grown into a career path I'm genuinely excited about. I enjoy building websites, mobile apps, and games - basically anything that brings ideas to life through code.
+Engineering student specializing in AI and Data Science. I’m all about building useful tools, clean websites, and things that just work. Outside of that, you’ll probably find me exploring Linux or breaking things (just to fix them again). Always happy to chat tech or collaborate on something cool!
+
+<!-- I'm a student majoring in AI and Data Science, with a passion for coding that began when I was 12. What started as a childhood curiosity has grown into a career path I'm genuinely excited about. I enjoy building websites, mobile apps, and games - basically anything that brings ideas to life through code.
 
 In my free time, you'll find me building fun little projects or exploring different Linux distributions. I'm a bit of a system tinkering enthusiast who loves understanding how things work under the hood.
 
-I'm always eager to connect with fellow developers and tech enthusiasts. Whether you're a friend, colleague, or potential collaborator, I'd love to chat about technology and share ideas. Feel free to reach out!
+I'm always eager to connect with fellow developers and tech enthusiasts. Whether you're a friend, colleague, or potential collaborator, I'd love to chat about technology and share ideas. Feel free to reach out! -->
 
 <!-- Student with a passion for AI/ML, Web, Apps, and Games development. I build clean, user-focused web experiences and love exploring Linux distros and system tinkering. Always learning, always evolving. As a curious and ever-learning individual, I'm always open to discussing these fascinating fields with other developers. Let's connect! -->
 
@@ -43,6 +45,8 @@ I'm always eager to connect with fellow developers and tech enthusiasts. Whether
 
 
 ## What I'm Learning
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) &nbsp;
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) &nbsp;
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) &nbsp;
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) &nbsp;
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) &nbsp;
